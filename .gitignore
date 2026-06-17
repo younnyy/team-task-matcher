@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.pytest_cache/
+
+# Course/report deliverables kept locally, not tracked on GitHub.
+图论大作业报告.md
+图论大作业报告.pdf
+小组分工导出.md
+screenshots/
+tmp/
+图论算法大作业分析.md
+图论大作业要求.txt
+
+# Local teaching materials are large and not required for the source repo.
+*.pdf
+!requirements.txt
